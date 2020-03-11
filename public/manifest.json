@@ -1,0 +1,21 @@
+{
+  "short_name": "React Bricks",
+  "name": "React Bricks Next.js Starter",
+  "description": "Next.js starter for React Bricks CMS",
+  "icons": [
+    {
+      "src": "/reactbricks-icon.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/reactbricks-icon.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "minimal-ui",
+  "theme_color": "#F65A8E"
+}
